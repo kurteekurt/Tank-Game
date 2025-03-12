@@ -1,20 +1,4 @@
-# csc413-tankgame
-
-
-| Student Information |                       |
-|:-------------------:|-----------------------|
-|  Student Name       | Christian Kurt Balais |
-|  Student Email      | cbalais@sfsu.edu      |
-
-
-## Purpose of jar Folder 
-The jar folder will be used to store the built jar of your term-project.
-
-`NO SOURCE CODE SHOULD BE IN THIS FOLDER. DOING SO WILL CAUSE POINTS TO BE DEDUCTED`
-
-`THIS FOLDER CAN NOT BE DELETED OR MOVED`
-
-# Required Information when Submitting Tank Game
+# tankgame
 
 ## Version of Java Used: openjdk 22.0.1 2024-04-16
 
